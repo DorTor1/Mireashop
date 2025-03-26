@@ -1,6 +1,5 @@
 # Shopify Simply 🛒
 
-![Shopify Simply](./public/og-image.png)
 
 ## 📋 Описание проекта
 
